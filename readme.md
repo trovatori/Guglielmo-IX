@@ -1,3 +1,3 @@
-## Trovatori project
+## Trovatori
 
-Un progettto dedicato ai trovatori
+Un progetto dedicato alla poesia dei trovatori
