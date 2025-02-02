@@ -1,2 +1,3 @@
 Prova.
-[Link](index.md)
+
+<a href="index.md">Indice</a>
