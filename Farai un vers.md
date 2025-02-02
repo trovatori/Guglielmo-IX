@@ -1,3 +1,3 @@
 Prova.
 
-<a href="index.md">Indice</a>
+* <a href="index.md">Indice</a>
