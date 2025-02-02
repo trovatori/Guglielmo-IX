@@ -1,3 +1,3 @@
-## Trovatori
+## Guglielmo IX
 
-Un progetto dedicato alla poesia dei trovatori
+Un progetto dedicato alla poesia di Guglielmo IX d'Aquitania.
