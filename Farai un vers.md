@@ -1,2 +1,2 @@
 Prova.
-index.md
+[Link](index.md)
