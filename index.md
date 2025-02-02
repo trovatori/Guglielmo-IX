@@ -1,8 +1,7 @@
 
-<title>HTML Tutorial</title>
 <body>
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
+<h1>Farai un vers de dreit nien</h1>
+<p>Farai un vers de dreit nien.</p>
 
 </body>
